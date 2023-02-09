@@ -1,0 +1,45 @@
+.lin{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+h1{
+    background-color: yellow;
+    width: 20%;
+    text-align: center;
+    padding: 1vh;
+    border-radius:0 70px 5px 70px;
+
+}
+input{
+    padding: 1vh;
+    border-radius:0 10px 5px 10px;
+    width: 30%;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    background-color: #f1c40f;
+    padding-bottom: 15vh;
+    padding-top: 15vh;
+}
+.img img{
+    width: 50vh;
+    margin-left: 2vh;
+    border-radius: 50px;
+    
+}
+.drk{
+    border-radius: 40px;
+    
+    padding-right: -2px;
+    background-color: #2d3436;
+
+}
+.divo{
+    display: flex;
+justify-content: center;
+justify-content: space-between;
+
+}
